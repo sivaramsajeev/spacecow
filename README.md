@@ -2,6 +2,8 @@
 
 Playing around with go-ncurses library examples
 
+`echo $TERM` => To get your current term
+
 - Requirements : 
 1) `sudo apt-get install libncurses-dev`
 
@@ -18,3 +20,7 @@ Playing around with go-ncurses library examples
 
 
 ### PRs are welcome
+
+
+
+
